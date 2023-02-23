@@ -155,7 +155,6 @@ QCL Patient Reminder List Report > Print to PDF > Save in folder > Copy pdf file
 xlsx_location = r'I:\Physics\aliu3\PatientList.csv'
     
 file_path = input('File path: ')
-# file_path = r'I:\Physics\Patient QA\MapCHECK\North\TB1 Patients\Helt, Harold\Esophagus'
 
 str_path = file_path.replace('\\', '/')
 
